@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Угадай число</string>
+    <string name="main_display">Загадайте число от %1$d до %2$d. Начнем?</string>
+    <string name="start">Старт</string>
+    <string name="end">Стоп</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="ask_greater">Ваше число больше %1$d?</string>
+    <string name="result">Вы загадали число %1$d</string>
+</resources>
